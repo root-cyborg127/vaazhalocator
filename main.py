@@ -1,11 +1,11 @@
 import time
 import socket
-from os import link, system
-from turtle import clear, clearscreen
+
+
 import py
 import requests
 import sys
-from turtle import clear
+
 from phonenumbers import carrier 
 import phonenumbers
 
