@@ -1,4 +1,4 @@
- # Vaazha Locator🤖 
+<h1 style="font-family: cursive;">Vaazha Locator🤖</h1> 
 
 VAAZHA LOCATOR is a tool allowing user to get IP address information such as country, region, city, latitude, longitude, zip code, time zone, ISP, domain name, connection type, area code, weather, mobile network, elevation, usage type from traceroute probes IP address.
 
