@@ -1,7 +1,2 @@
-os 
-turtle 
-py
-requests
-sys
-phonenumbers  
+phonenumbers==8.12.45
 
