@@ -1,4 +1,4 @@
-<h1 style="font-family: cursive;">Vaazha Locator🤖</h1> 
+<h1 style="font-family: cursive;">Vaazha Locator🤖</h1>   <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/e92d3b4c5675f9defea3d4a4e14aad8a9002a4a887ea2fa3d93d87ea8d4cc4fe/68747470733a2f2f6672657368696465612e636f6d2f6a6f6e61682f6170702f73696d706c652d766965772d636f756e746572"><img title="repo views" src="https://camo.githubusercontent.com/e92d3b4c5675f9defea3d4a4e14aad8a9002a4a887ea2fa3d93d87ea8d4cc4fe/68747470733a2f2f6672657368696465612e636f6d2f6a6f6e61682f6170702f73696d706c652d766965772d636f756e746572" data-canonical-src="https://freshidea.com/jonah/app/simple-view-counter" style="max-width: 100%;"></a>
 
 VAAZHA LOCATOR is a tool allowing user to get IP address information such as country, region, city, latitude, longitude, zip code, time zone, ISP, domain name, connection type, area code, weather, mobile network, elevation, usage type from traceroute probes IP address.
 
