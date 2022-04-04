@@ -82,8 +82,8 @@ print()
 print()
 
 print('\u001b[33;1m-----------------------------------------------------------------------------------------------------------------------------------------------------------\u001b[0m'), time.sleep(.5)
-print('\u001b[32m[1]\u001b[0m IPLOCATOR    - Locates any device using IP Address                   \u001b[32m[8]\u001b[0m Coming Soon🔥'), time.sleep(.1)
-print('\u001b[32m[2]\u001b[0m PHONELOCATOR    - Locates devices using PHONENUMBER [BASIC]          \u001b[32m[9]\u001b[0m Coming Soon🔥'), time.sleep(.1)
+print('\u001b[32m[1]\u001b[0m IPLOCATOR    - Locates any device using LOCAL IP Address                   \u001b[32m[8]\u001b[0m Coming Soon🔥'), time.sleep(.1)
+print('\u001b[32m[2]\u001b[0m PHONE-INFO>>>    - INFO GATHERING OF PHONENUMBER [BASIC]          \u001b[32m[9]\u001b[0m Coming Soon🔥'), time.sleep(.1)
 print('\u001b[32m[3]\u001b[0m Coming Soon🔥                                                        \u001b[32m[10]\u001b[0m Coming Soon🔥'), time.sleep(.1)
 print('\u001b[32m[4]\u001b[0m Coming Soon🔥                                                        \u001b[32m[11]\u001b[0m Coming Soon🔥'), time.sleep(.1)
 print('\u001b[32m[5]\u001b[0m Coming Soon🔥                                                        \u001b[32m[12]\u001b[0m Coming Soon🔥'), time.sleep(.1)
@@ -188,11 +188,11 @@ def IPLOC():
 
 def PHONELOCATOR():
     print('\u001b[33;1m-------------------------------------------------------------------\u001b[0m'), time.sleep(.1)
-    print('\u001b[34;1m [ϟ] P H O N E N U M B E R    L O C A T O R\u001b[0m'), time.sleep(.1)
+    print('\u001b[34;1m [ϟ] P H O N E N U M B E R    I N F O R M A T I O N \u001b[0m'), time.sleep(.1)
     print('\u001b[33;1m-------------------------------------------------------------------\u001b[0m'), time.sleep(.1)
     print()
 
-    number = input("\u001b[33;1m [ϟ] \u001b[46;1m ENTER PHONE NUMBER TO LOCATE ::: \u001b[0m")
+    number = input("\u001b[33;1m [ϟ] \u001b[46;1m ENTER PHONE NUMBER TO GET INFO  ::: \u001b[0m")
     print()
     
     
@@ -233,8 +233,8 @@ def SOON():
     sys.exit()
 def OPTION_LIST():
     print('\u001b[33;1m-----------------------------------------------------------------------------------------------------------------------------------------------------------\u001b[0m'), time.sleep(.5)
-    print('\u001b[32m[1]\u001b[0m IPLOCATOR    - Locates any device using IP Address                   \u001b[32m[8]\u001b[0m Coming Soon🔥'), time.sleep(.1)
-    print('\u001b[32m[2]\u001b[0m PHONELOCATOR    - Locates devices using PHONENUMBER [BASIC]          \u001b[32m[9]\u001b[0m Coming Soon🔥'), time.sleep(.1)
+    print('\u001b[32m[1]\u001b[0m IPLOCATOR    - Locates any device using LOCAL IP Address                   \u001b[32m[8]\u001b[0m Coming Soon🔥'), time.sleep(.1)
+    print('\u001b[32m[2]\u001b[0m PHONE-INFO>>>    - INFO GATHERING OF PHONENUMBER [BASIC]           \u001b[32m[9]\u001b[0m Coming Soon🔥'), time.sleep(.1)
     print('\u001b[32m[3]\u001b[0m Coming Soon🔥                                                        \u001b[32m[10]\u001b[0m Coming Soon🔥'), time.sleep(.1)
     print('\u001b[32m[4]\u001b[0m Coming Soon🔥                                                        \u001b[32m[11]\u001b[0m Coming Soon🔥'), time.sleep(.1)
     print('\u001b[32m[5]\u001b[0m Coming Soon🔥                                                        \u001b[32m[12]\u001b[0m Coming Soon🔥'), time.sleep(.1)
