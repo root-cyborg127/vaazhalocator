@@ -82,7 +82,7 @@ print()
 print()
 
 print('\u001b[33;1m-----------------------------------------------------------------------------------------------------------------------------------------------------------\u001b[0m'), time.sleep(.5)
-print('\u001b[32m[1]\u001b[0m IPLOCATOR    - Locates any device using LOCAL IP Address                   \u001b[32m[8]\u001b[0m Coming Soon🔥'), time.sleep(.1)
+print('\u001b[32m[1]\u001b[0m IPLOCATOR    - Locates any device using PUBLIC IP Address                   \u001b[32m[8]\u001b[0m Coming Soon🔥'), time.sleep(.1)
 print('\u001b[32m[2]\u001b[0m PHONE-INFO>>>    - INFO GATHERING OF PHONENUMBER [BASIC]          \u001b[32m[9]\u001b[0m Coming Soon🔥'), time.sleep(.1)
 print('\u001b[32m[3]\u001b[0m Coming Soon🔥                                                        \u001b[32m[10]\u001b[0m Coming Soon🔥'), time.sleep(.1)
 print('\u001b[32m[4]\u001b[0m Coming Soon🔥                                                        \u001b[32m[11]\u001b[0m Coming Soon🔥'), time.sleep(.1)
@@ -233,7 +233,7 @@ def SOON():
     sys.exit()
 def OPTION_LIST():
     print('\u001b[33;1m-----------------------------------------------------------------------------------------------------------------------------------------------------------\u001b[0m'), time.sleep(.5)
-    print('\u001b[32m[1]\u001b[0m IPLOCATOR    - Locates any device using LOCAL IP Address                   \u001b[32m[8]\u001b[0m Coming Soon🔥'), time.sleep(.1)
+    print('\u001b[32m[1]\u001b[0m IPLOCATOR    - Locates any device using PUBLIC IP Address                   \u001b[32m[8]\u001b[0m Coming Soon🔥'), time.sleep(.1)
     print('\u001b[32m[2]\u001b[0m PHONE-INFO>>>    - INFO GATHERING OF PHONENUMBER [BASIC]           \u001b[32m[9]\u001b[0m Coming Soon🔥'), time.sleep(.1)
     print('\u001b[32m[3]\u001b[0m Coming Soon🔥                                                        \u001b[32m[10]\u001b[0m Coming Soon🔥'), time.sleep(.1)
     print('\u001b[32m[4]\u001b[0m Coming Soon🔥                                                        \u001b[32m[11]\u001b[0m Coming Soon🔥'), time.sleep(.1)
