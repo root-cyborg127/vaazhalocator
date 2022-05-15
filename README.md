@@ -16,7 +16,7 @@ VAAZHA LOCATOR is a tool allowing user to get IP address information such as cou
 
 # ⚙️How To Use
 
-#  >_    Installation (Termux)
+#  >_    Installation (Termux) 
 
 
 
