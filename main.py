@@ -362,7 +362,7 @@ def generate_random_password():
 print("[green][+][/green] [bold magenta]Password generated ![/bold magenta]!", ":white_check_mark:")
 print("[#6AFB92]#########################################################################################################[/#6AFB92]")     
 
-
+sys.exit()
 
 
 
