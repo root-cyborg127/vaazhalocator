@@ -41,6 +41,8 @@ VAAZHA LOCATOR is a tool allowing user to get IP address information such as cou
 
 
 
+## THE TOOL MAY MISBEHAVE DUE TO UPDATE ‼
+
 
 
 
